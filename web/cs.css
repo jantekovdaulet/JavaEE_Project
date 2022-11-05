@@ -1,0 +1,22 @@
+.infoBlock{
+    display:flex;
+    height:70vh;
+    justify-content: space-around;
+    align-items:center;
+}
+.footerhj{
+    display:flex;
+    height:20vh;
+    align-items:flex-end;
+    justify-content:center;
+}
+.moibtn{
+    color:blue;
+}
+img{
+    width:200px;
+    height:200px;
+}
+.moiSelect{
+    background:chartreuse;
+}
